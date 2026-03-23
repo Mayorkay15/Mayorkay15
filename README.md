@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayorkay15
-- 👀 I’m interested in .. software development.
-- 🌱 I’m currently learning .html,css and js..
-- 💞️ I’m looking to collaborate on .. frontend development project.
+- 👀 I’m interested in .. Data Science and Machine Learning.
+- 🌱 I’m currently Learning Data Sciene ..
+- 💞️ I’m looking to collaborate on .. Data Science project.
 - 📫 How to reach me .my email is mayorkay15@gmail.com..
 
 <!---
